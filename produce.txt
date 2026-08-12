@@ -1,0 +1,9 @@
+#FreshMart Produc Inventory
+#Format: name | category | in_stock | price_per_kg
+
+[fruits]
+apple | fruit | yes | 3.00
+banana | fruit | yes | 1.5
+cherry | fruit | no | 8.00
+durian | fruit | yes | 15.00
+elderberry | fruit | no | 12.00
