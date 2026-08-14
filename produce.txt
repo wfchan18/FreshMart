@@ -6,10 +6,11 @@ apple | fruit | yes | 3.00
 banana | fruit | yes | 1.5
 cherry | fruit | no | 8.00
 durian | fruit | yes | 15.00
-elderberry | fruit | no | 12.00
+elderberry | fruit | yes | 12.00
 
 [vegetables]
 broccoli | vegetable | yes | 2.50
 carrot | vegetable | yes | 1.2
 eggplat | vegetable | yes : 1.00
+garlic | vegetable | yes | 5.00
 
