@@ -13,4 +13,4 @@ broccoli | vegetable | yes | 2.50
 carrot | vegetable | yes | 1.2
 eggplat | vegetable | yes : 1.00
 garlic | vegetable | yes | 5.00
-
+cucumber | vegetable | yes | 1.00
