@@ -14,3 +14,5 @@ carrot | vegetable | yes | 1.2
 eggplat | vegetable | yes : 1.00
 garlic | vegetable | yes | 5.00
 cucumber | vegetable | yes | 1.00
+orange | fruit | yes | 2.90
+tomato | vegetable | yes | 1.90
